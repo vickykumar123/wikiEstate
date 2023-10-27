@@ -12,6 +12,9 @@ Exciting news! I've created **wikiEstate**, a simple, user-friendly real estate 
 - **Real-time Updates:** Stay updated with instant notifications.
 - **Firebase Integration:** Seamless login and secure storage.
 - **MERN Stack Magic:** Robust and responsive user experience.
+- **JWT:** JWT token for authentication.
+- **Redux:** used Redux for state management.
+  
 
 ## Getting Started
 1. **Clone the repository:**
