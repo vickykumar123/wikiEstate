@@ -2,6 +2,8 @@
 
 ![image](https://github.com/vickykumar123/wikiEstate/assets/41174782/530968c6-a90a-4b26-a8ad-a893c16ea2a3)
 
+hosted on : https://github.com/vickykumar123/wikiEstate
+
 wikiEstate is a full-stack mern application, application usage is for real estate business.
 
 Exciting news! I've created **wikiEstate**, a simple, user-friendly real estate platform. Built on the robust MERN stack (MongoDB, Express.js, React, Node.js) and utilizing Firebase for seamless login and secure storage, wikiEstate offers an effortless home search. Easy Google login, real-time updates, and airtight security – all tailored just for you! Dive in and find your dream home effortlessly. Let's get started! 🌟
