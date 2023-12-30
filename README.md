@@ -2,7 +2,7 @@
 
 ![image](https://github.com/vickykumar123/wikiEstate/assets/41174782/530968c6-a90a-4b26-a8ad-a893c16ea2a3)
 
-hosted on : https://github.com/vickykumar123/wikiEstate
+hosted on : https://wikiestate.onrender.com/
 
 wikiEstate is a full-stack mern application, application usage is for real estate business.
 
